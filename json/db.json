@@ -1,0 +1,24 @@
+{
+  "delivery": [
+    {
+      "id": "1",
+      "items": 2,
+      "price": 629
+    },
+    {
+      "id": "2",
+      "items": 3,
+      "price": 859
+    },
+    {
+      "id": "3",
+      "items": 2,
+      "price": 529
+    },
+    {
+      "id": "4",
+      "items": 2,
+      "price": 629
+    }
+  ]
+}
